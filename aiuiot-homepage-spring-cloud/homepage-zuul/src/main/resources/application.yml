@@ -1,0 +1,25 @@
+server:
+  port: 9000
+
+spring:
+  application:
+    name: homepage-zuul
+
+# 需要连接的 eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://server1:8000/eureka/
+
+# 网关服务的配置
+zuul:
+  prefix: /aiuiot
+  routes:
+    course:
+      path: /homepage-course/**
+      serviceId: eureka-client-homepage-course
+      strip-prefix: false
+    user:
+      path: /homepage-user/**
+      serviceId: eureka-client-homepage-user
+      strip-prefix: false

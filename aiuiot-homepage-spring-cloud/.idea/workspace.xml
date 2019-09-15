@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19c905a5-370d-4a4e-954a-74742392e696" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/opt/apps/maven" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QivtR91uSYeyjDQ8LMnCKMQUA0" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aiuiot-homepage-service/homepage-user/src/test/java/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aiuiot.homepage.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aiuiot-homepage-service/homepage-user/src/test/java/resources" />
+      <recent name="$PROJECT_DIR$/aiuiot-homepage-service/homepage-course/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HomepageUserServiceTest.testCreateHomepageUserCourse">
+    <configuration name="HomepageCourseServiceTest.testGetCourseInfos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homepage-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aiuiot.homepage.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aiuiot.homepage.service" />
+      <option name="MAIN_CLASS_NAME" value="com.aiuiot.homepage.service.HomepageCourseServiceTest" />
+      <option name="METHOD_NAME" value="testGetCourseInfos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomepageUserServiceTest.testCreateHomepageUserCourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homepage-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aiuiot.homepage.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aiuiot.homepage.service" />
+      <option name="MAIN_CLASS_NAME" value="com.aiuiot.homepage.service.HomepageUserServiceTest" />
+      <option name="METHOD_NAME" value="testCreateHomepageUserCourse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomepageUserServiceTest.testCreateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homepage-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aiuiot.homepage.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aiuiot.homepage.service" />
+      <option name="MAIN_CLASS_NAME" value="com.aiuiot.homepage.service.HomepageUserServiceTest" />
+      <option name="METHOD_NAME" value="testCreateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomepageUserServiceTest.testGetUserInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homepage-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aiuiot.homepage.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aiuiot.homepage.service" />
+      <option name="MAIN_CLASS_NAME" value="com.aiuiot.homepage.service.HomepageUserServiceTest" />
+      <option name="METHOD_NAME" value="testGetUserInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="homepage-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aiuiot.homepage.HomepageCourseApplication" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aiuiot.homepage.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomepageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="homepage-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aiuiot.homepage.HomepageCourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomepageUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="homepage-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aiuiot.homepage.HomepageUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="homepage-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aiuiot.homepage.ZuulGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HomepageUserServiceTest.testCreateHomepageUserCourse" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="JUnit.HomepageUserServiceTest.testGetUserInfo" />
+        <item itemvalue="JUnit.HomepageUserServiceTest.testCreateUser" />
+        <item itemvalue="JUnit.HomepageCourseServiceTest.testGetCourseInfos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19c905a5-370d-4a4e-954a-74742392e696" name="Default Changelist" comment="" />
+      <created>1567946532547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567946532547</updated>
+      <workItem from="1567946537597" duration="6172000" />
+      <workItem from="1567953588403" duration="837000" />
+      <workItem from="1567992955410" duration="4506000" />
+      <workItem from="1568042635630" duration="84000" />
+      <workItem from="1568043072319" duration="912000" />
+      <workItem from="1568044019637" duration="4434000" />
+      <workItem from="1568079553764" duration="4590000" />
+      <workItem from="1568266450728" duration="1327000" />
+      <workItem from="1568362504282" duration="614000" />
+      <workItem from="1568390676154" duration="365000" />
+      <workItem from="1568422990021" duration="253000" />
+      <workItem from="1568472884954" duration="8611000" />
+      <workItem from="1568511945411" duration="3459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

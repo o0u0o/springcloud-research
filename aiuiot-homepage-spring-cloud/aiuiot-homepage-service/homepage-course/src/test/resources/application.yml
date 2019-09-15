@@ -1,0 +1,32 @@
+# 端口、上下文路径（前缀为/homepage-course）
+server:
+  port: 7001
+  servlet:
+    context-path: /homepage-course
+
+# SpringBoot应用
+spring:
+  application:
+    name: eureka-client-homepage-course
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate.format_sql: true
+    open-in-view: false
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/imooc_homepage_sc?autoReconnect=true&useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: root
+    password: Mysql8.0
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    tomcat:
+      max-active: 4
+      min-idle: 2
+      initial-size: 2
+
+# Eureka 客户端尝试链接以下地址
+eureka:
+  client:
+    service-url:
+      defaultZone: http://server1:8000/eureka/

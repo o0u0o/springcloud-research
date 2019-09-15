@@ -1,0 +1,22 @@
+package com.aiuiot.homepage;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
+
+/**
+ * @Author aiuiot
+ * @Date 2019-09-08 21:00
+ * 1.只需要使用 @EnableEurekaServer 注解 就可以让应用变成 Eureka Server
+ * 2.pom 文件中对应到 spring-cloud-starter-netflix-eureka-server
+ **/
+@EnableEurekaServer
+@SpringBootApplication
+public class EurekaApplication {
+
+    public static void main(String[] args) {
+
+        SpringApplication.run(EurekaApplication.class, args);
+
+    }
+}
